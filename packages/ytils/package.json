@@ -1,14 +1,10 @@
 {
     "name": "ytils",
     "version": "0.1.0",
-    "dependencies": {
-        "@ytils/calc": "workspace:*",
-        "@ytils/typ": "workspace:*",
-        "@ytils/cmpr": "workspace:*",
-        "@ytils/ref": "workspace:*",
-        "@ytils/recre8": "workspace:*",
-        "@ytils/mdfy": "workspace:*"
-    },
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
     "engines": {
         "node": ">=16.11.0",
         "npm": "please-use-pnpm",

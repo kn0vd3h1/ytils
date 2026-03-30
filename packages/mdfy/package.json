@@ -1,6 +1,10 @@
 {
     "name": "@ytils/mdfy",
     "version": "0.0.4",
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
     "engines": {
         "node": ">=16.11.0",
         "npm": "please-use-pnpm",

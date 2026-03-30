@@ -1,6 +1,10 @@
 {
     "name": "@ytils/recre8",
     "version": "0.0.10",
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
     "engines": {
         "node": ">=16.11.0",
         "npm": "please-use-pnpm",
@@ -28,10 +32,6 @@
         "package.json",
         "README.md"
     ],
-    "dependencies": {
-        "@ytils/typ": "workspace:*",
-        "@ytils/cmpr": "workspace:*"
-    },
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
     "typings": "dist/index.d.ts"

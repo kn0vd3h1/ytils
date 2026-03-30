@@ -1,6 +1,10 @@
 {
     "name": "@ytils/typ",
     "version": "0.1.1",
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
     "engines": {
         "node": ">=16.11.0",
         "npm": "please-use-pnpm",
